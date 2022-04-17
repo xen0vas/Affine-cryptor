@@ -1,2 +1,3 @@
 # Affine-Cryptor
-Cryptor for Affine cipher encryption and decryption of shellcodes 
+
+Affine cryptor for shellcoded encryption and decryption 
